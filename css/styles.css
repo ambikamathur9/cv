@@ -1,0 +1,24 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  border-style: none;
+  border-top: 3px dotted grey;
+  width: 5%;
+  border-width: 5px;
+}
+
+h1 {
+  color: #f8a978;
+  font-family: Arial;
+}
+
+h3 {
+    color: #ffc5a1;
+    font-family: Arial;
+}
+
+a:hover {
+  background-color: gold;
+}
